@@ -1,3 +1,9 @@
+HASIL REGISTER 
+![alt text](image-6.png)
+
+HASIL LOGIN
+![alt text](image-7.png)
+
 //HASIL POST
 ![alt text](image-1.png)
 
